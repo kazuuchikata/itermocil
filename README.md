@@ -13,7 +13,7 @@ iTermocil supports iTerm 2.x and the new 3.x (including later betas). It works b
 $ brew update
 $ mkdir -p $(brew --repository)/Library/Taps/kazuuchikata
 $ git clone https://github.com/kazuuchikata/homebrew-brews $(brew --repository)/Library/Taps/kazuuchikata/homebrew-brews
-$ brew update
+$ brew upgrade
 $ brew install kazuuchikata/brews/itermocil
 
 # Create your layout directory
